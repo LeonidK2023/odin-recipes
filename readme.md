@@ -1,0 +1,1 @@
+First project through the odin project! Practicing basic HTML coding. Simple web page creation, insertion of links, images, creating ordered and unordered lists. Also using Github to create repository, add/stage and commit the coding. Will be using VScode for coding.
