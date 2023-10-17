@@ -1,0 +1,23 @@
+body    {
+        font-family: 'Dancing Script', cursive;
+        text-align: center;
+        }
+.beef-stew  {
+            background-color: burlywood;
+            color: brown;            
+            }
+
+.omelette   {
+            background-color: dimgrey;
+            color:aliceblue;}
+
+.pork-kebab {
+            background-color: maroon;
+            color: white;
+            }
+img     {
+        height: auto;
+        width: 500px;
+        }
+
+                                              
