@@ -1,10 +1,10 @@
 body    {
         font-family: 'Dancing Script', cursive;
-        text-align: center;
+        text-align: center;        
         }
 .beef-stew  {
             background-color: burlywood;
-            color: brown;            
+            color: brown;                           
             }
 
 .omelette   {
@@ -19,5 +19,11 @@ img     {
         height: auto;
         width: 500px;
         }
+ul      {
+        list-style-type: none;
+        }
+ol      {
+        list-style-type: none;
+}        
 
                                               
